@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795351334377",
+    "project_id": "login-gdg",
+    "storage_bucket": "login-gdg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795351334377:android:92dd9dab996eb1fb5edf78",
+        "android_client_info": {
+          "packagename": "com.example.task2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUs8vn01pExePyREzkFFY7pDzSZxnYLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
